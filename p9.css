@@ -1,0 +1,17 @@
+.loader{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid rgb(103, 14, 40);
+    border-top: 20px solid rgb(197, 203, 223);
+    animation: anime 2s ease-in 0s infinite normal;
+}
+
+@keyframes anime{
+  from{
+    transform: rotate(0deg);
+  }    
+  to{
+    transform: rotate(360deg);
+  }
+}

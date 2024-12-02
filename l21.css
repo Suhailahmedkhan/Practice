@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin:0;
+    color: antiquewhite;
+}
+
+
+#navbar{
+    background-color:black;
+     height: 50px;
+     margin: 10px;
+     padding: 10px;
+}
+
+button{
+    background-color: rgb(254, 191, 1);
+}
+
+#logo
+{
+    color:rgb(254, 191, 1);
+} 
+
+a{
+    margin-right: 180px;
+}
+
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    background-color:black ;
+    display: inline-block;
+}
+
+footer{
+    background-color: brown;
+    text-align: center;
+}
+

@@ -1,0 +1,18 @@
+#box{
+    background-color: blue;
+}
+
+/* .heading{
+    color: thistle;
+} */
+/* /* another way to write selector by using commas */
+
+h1,h2,h3{
+    color: blueviolet;
+}
+
+
+
+button{
+    color: aqua;
+}
